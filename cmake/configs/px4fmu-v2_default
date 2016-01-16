@@ -173,6 +173,7 @@ set(config_io_board
 	px4io-v2
 	)
 
+
 set(config_extra_libs
 	${CMAKE_SOURCE_DIR}/src/lib/mathlib/CMSIS/libarm_cortexM4lf_math.a
 	uavcan
